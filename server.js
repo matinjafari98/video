@@ -1,5 +1,5 @@
-// http://127.0.0.1:9001
-// http://localhost:9001
+// http://0.0.0.0:9001
+// http://0.0.0.0:9001
 
 const fs = require('fs');
 const path = require('path');
